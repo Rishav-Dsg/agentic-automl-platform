@@ -53,5 +53,4 @@ pip install -r requirements.txt
 streamlit run frontend/streamlit_app.py
 ```
 =======
-# agentic-automl-platform
->>>>>>> 55cd986418d664f7f45229d05ba81aae7bfb7853
+3

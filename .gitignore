@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+
+datasets/*.csv
+models/
+artifacts/
+
+.streamlit/
+
+.ipynb_checkpoints/
+
+submission.csv
+
+.env

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Agentic AutoML Platform
 
 An autonomous machine learning platform built using LangGraph, LangChain, Scikit-learn, XGBoost, Optuna, and Streamlit.
